@@ -22,9 +22,9 @@ Tim Wen•(HTC Vive) , Mike Smith•(ROE), Evan Glantz•(Vū), Alvin Renz•(V�
 Mark Swanson•(Vū Chariman), Tim Moore•(Vū CEO), Vitalii Boiko•(PixelaLabs), SMPTE•
 
 *Author, °Contributor, • Acknowledgments
-* Immersive Research:
-* videofeedback@gmail.com
-* https://www.linkedin.com/in/ramiromontesdeo
+*Immersive Research:
+*videofeedback@gmail.com
+*https://www.linkedin.com/in/ramiromontesdeo
 
 
 

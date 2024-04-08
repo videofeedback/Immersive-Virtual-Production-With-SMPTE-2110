@@ -27,7 +27,9 @@ Mark Swanson•(Vū Chariman), Tim Moore•(Vū CEO), Vitalii Boiko•(PixelaLab
 
 *videofeedback@gmail.com
 
-*https://www.linkedin.com/in/ramiromontesdeo
+*https://www.linkedin.com/in/ramiromontesdeoca
+
+*https://github.com/videofeedback/
 
 
 

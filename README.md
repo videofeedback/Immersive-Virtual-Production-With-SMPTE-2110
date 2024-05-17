@@ -1,7 +1,9 @@
 # Immersive-Virtual-Production-With-SMPTE-2110
 (White Paper) Immersive Virtual Production With SMPTE 2110
 
-[Download White Paper: Immersive Virtual Production With SMPTE 2110)](https://github.com/videofeedback/Immersive-Virtual-Production-With-SMPTE-2110/blob/main/Immersive_Virtual_Production_with_SMPTE-2110_R_v1_2024_097_1600_v1_r1.pdf)
+[Download White Paper (From Google Drive): Immersive Virtual Production With SMPTE 2110) @ Github ](https://drive.google.com/file/d/15Z6Ql1s3k0uJe1CSTMm8HFnEEE6YbZRn/view?usp=sharing)
+
+[Download White Paper(From Github): Immersive Virtual Production With SMPTE 2110)](https://github.com/videofeedback/Immersive-Virtual-Production-With-SMPTE-2110/blob/main/Immersive_Virtual_Production_with_SMPTE-2110_R_v1_2024_097_1600_v1_r1.pdf)
 
 [![](https://github.com/videofeedback/Immersive-Virtual-Production-With-SMPTE-2110/blob/main/images/Orchestrated_Metadata_Syncronization_with_SMPTE_2110-41_42.png)](https://github.com/videofeedback/Immersive-Virtual-Production-With-SMPTE-2110/blob/main/images/Orchestrated_Metadata_Syncronization_with_SMPTE_2110-41_42.png)
 

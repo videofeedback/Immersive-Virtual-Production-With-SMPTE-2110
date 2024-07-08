@@ -4,7 +4,7 @@
 ![Immersive-Virtual-Production-With-SMPTE-2110](https://github.com/videofeedback/Immersive-Virtual-Production-With-SMPTE-2110/blob/main/images/Orchestrated_Metadata_Syncronization_with_SMPTE_2110-41_42.png)
 
 
-[Download White Paper (From Google Drive): Immersive Virtual Production With SMPTE 2110) ](https://drive.google.com/file/d/1AMAcgGJeIpd39OXSfmmI7AoNkw9yMYbS/view?usp=sharing)
+[Download White Paper (From Google Drive): Immersive Virtual Production With SMPTE 2110) ](https://drive.google.com/file/d/18_TRpn0Eq5P9FKoXrzmxIKjk7gLn1x6t/view?usp=sharing)
 
 
 
